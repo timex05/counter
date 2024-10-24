@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project-0.1";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js.gz",
-    "Build/Build.data.gz",
-    "Build/Build.wasm.gz",
+    "Build/Neuer Ordner.loader.js",
+    "Build/Neuer Ordner.framework.js",
+    "Build/Neuer Ordner.data",
+    "Build/Neuer Ordner.wasm",
     "TemplateData/style.css"
 
 ];
